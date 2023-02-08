@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string name="textview">TextView</string>
+    <string name="inch_to_centimeter">Inch to Centimeter</string>
+    <string name="meter_to_kilometer">Meter to Kilometer</string>
+    <string name="milimeter_to_liter">Milimeter to Liter</string>
+    <string name="gram_to_kilogram">Gram to Kilogram</string>
+    <string name="unit_convertor">Unit Convertor</string>
+    <string name="submit">Submit</string>
+</resources>
